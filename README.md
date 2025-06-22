@@ -72,7 +72,7 @@ Follow these steps to get the application running on your local machine.
 With your virtual environment activated and dependencies installed, run the following command in your terminal:
 
 ```
-python converter_dark.py
+Image to Pdf.py
 
 ```
 
